@@ -1,2 +1,3 @@
 apkdv/siyuan-unlock:latest
 minio/minio:latest
+dokploy/dokploy:latest
