@@ -1,3 +1,6 @@
-apkdv/siyuan-unlock:latest
-minio/minio:latest
-dokploy/dokploy:latest
+apkdv/siyuan-unlock
+minio/minio
+dokploy/dokploy
+traefik
+traefik/whoami
+gitea/gitea
