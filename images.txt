@@ -4,4 +4,4 @@ dokploy/dokploy
 traefik
 traefik/whoami
 gitea/gitea
-https://github.com/womsxd/mihoyobbstools
+github.com/womsxd/mihoyobbstools
