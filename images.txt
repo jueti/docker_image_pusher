@@ -4,3 +4,4 @@ dokploy/dokploy
 traefik
 traefik/whoami
 gitea/gitea
+https://github.com/Womsxd/MihoyoBBSTools
